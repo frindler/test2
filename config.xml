@@ -9,7 +9,12 @@
   <RemoteUrl>https://github.com/frindler/test2.git</RemoteUrl>
   <ContentTypes />
   <MembersKey>/exooimPuUK/im2vjBBe</MembersKey>
-  <Participants />
+  <Participants>
+    <User Id="c5c610a0-6583-4e70-8ea8-83e75fcf7bb9">
+      <DisplayName>Filip</DisplayName>
+      <Email>filip.rindler@gmail.com</Email>
+    </User>
+  </Participants>
   <ManagedBranches>
     <BranchSpec>main</BranchSpec>
   </ManagedBranches>
