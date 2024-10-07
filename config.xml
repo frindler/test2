@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RepoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>92530cf2-dac7-4554-99cc-7a1a92336c67</Id>
+  <Name>test2</Name>
+  <IsPublic>true</IsPublic>
+  <StorageHostId>github</StorageHostId>
+  <StorageName>test2</StorageName>
+  <RemoteName>divvorigin</RemoteName>
+  <RemoteUrl>https://github.com/frindler/test2.git</RemoteUrl>
+  <ContentTypes />
+  <MembersKey>/exooimPuUK/im2vjBBe</MembersKey>
+  <Participants />
+  <ManagedBranches>
+    <BranchSpec>main</BranchSpec>
+  </ManagedBranches>
+  <SynchronizationTrigger>OnCommit</SynchronizationTrigger>
+</RepoConfiguration>
