@@ -14,6 +14,10 @@
       <DisplayName>Filip</DisplayName>
       <Email>filip.rindler@gmail.com</Email>
     </User>
+    <User Id="ff106566-e588-4cef-a45c-c47e950c63ca">
+      <DisplayName>Filip</DisplayName>
+      <Email>filip@divversion.com</Email>
+    </User>
   </Participants>
   <ManagedBranches>
     <BranchSpec>main</BranchSpec>
